@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840103029130",
+    "firebase_url": "https://chatapp-a94bf.firebaseio.com",
+    "project_id": "chatapp-a94bf",
+    "storage_bucket": "chatapp-a94bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840103029130:android:6289856e23215022bb0073",
+        "android_client_info": {
+          "package_name": "com.dana.watermelon_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840103029130-5lba6bqf7c0c34u9v8eojij3cakm00a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dana.watermelon_auth",
+            "certificate_hash": "0668fcd718b07b1dee2e811a245671d67c132446"
+          }
+        },
+        {
+          "client_id": "840103029130-c209t7pjfhmabitcmefnf5rkkadab7st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZ0imbBkUnFeIh-fR1DWtCNSOmg9GvgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840103029130-c209t7pjfhmabitcmefnf5rkkadab7st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
